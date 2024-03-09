@@ -1,0 +1,113 @@
+body {
+    /*background-image: url(./IMG/san.png);*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+
+
+.console {
+    width: 500px;
+    height: 500px;
+    border: 5px solid #ffffff;
+    border-radius: 20%;
+    position: relative;
+    overflow: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    align-items: center;
+    background-image: url("consoleTexture.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.vinilo {
+    width: 400px;
+    height: 400px;
+    background-color: #333;
+    border-radius: 50%;
+    position: absolute;
+    display: block;
+    margin-left: 55px;
+    margin-top: 55px;
+}
+
+.album {
+    width: 250px;
+    height: 250px;
+    background-color: #fff;
+    border-radius: 50%;
+    position: relative;
+    margin-left: 130px;
+    margin-right: auto;
+    margin-top: 130px;
+    background-image: url("./IMG/cover.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.agujero {
+    width: 20px;
+    height: 20px;
+    background-color: #000;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.linea1 {
+    background-color: #fff;
+    border-radius: 50%;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+@keyframes girar {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.album {
+    animation: girar 10s linear infinite;
+}
+
+.vinilo {
+    animation: girar 10s linear infinite;
+}
+.imagen img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.circulo {
+    width: 4px;
+    height: 270px;
+    background-color: lightgrey;
+    position: absolute;
+    top: 20%;
+    left: 34%;
+    transform-origin: top;
+    transform: translateX(-50%) rotate(-30deg);
+    transition: transform 0.3s ease-in-out;
+}
+
+
+@media screen and (max-width:590px ) {
+   
+}
