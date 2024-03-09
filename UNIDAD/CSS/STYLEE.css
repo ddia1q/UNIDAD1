@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+    margin: 0;
+    color: black;
+    text-align: center;
+    
+    }
+    .izquierda{
+        background-color: brown;
+        padding: 10px;
+        float: left;
+        width: 20%;
+        color: white;
+        text-align: center;
+    }
+    
+    .mani{
+        background-color: rgb(211, 231, 28);
+        padding: 10px;
+        float: left;
+        width: 55%;
+        color: white;
+        text-align: center;
+    }
+    
+    
+    .derecha{
+        background-color: rgb(128, 192, 10);
+        padding: 10px;
+        float: left;
+        width: 20%;
+        color: white;
+        text-align: center;
+    }
+    
+    @media screen and (max-width:590px ) 
+        {
+            
+    }
+    
