@@ -1,0 +1,25 @@
+.tittle{
+    text-align: center;
+    color: white;
+}
+.details {
+    text-align: center;
+    color: white;
+    margin-right: 100px;
+    margin-top: -80px;
+
+}
+
+#VideoFondo {
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    align-items: center;
+}
+.imgg{
+    margin-left: 330px;
+    margin-top: -50px;
+}

@@ -1,0 +1,21 @@
+.titulo{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+.detalles{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 200px;
+}
+#VideoFondo {
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    align-items: center;
+}
