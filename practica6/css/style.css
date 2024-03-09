@@ -1,0 +1,51 @@
+body {
+    background: #e0e0e0;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow: hidden;
+    }    
+
+#video-background {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100; /* Sitúa el video detrás de todo el contenido */
+    background-size: cover;
+    overflow: hidden;
+}
+
+.spidey img {
+    border-radius: 10%;
+    height: 10%;
+    width: 15%;
+    margin-bottom: 500%;
+    margin-left: 800px;
+    margin-right: auto;
+    margin-top: 110px;
+}
+
+.lyrics {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 20px;
+    max-width: 300px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 10px 0 rgba(0, 255, 255, 0.5), 0 0 40px 0 rgba(0, 255, 255, 0.45), 0 0 80px 0 rgba(0, 255, 255, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.lyrics p {
+    color: black;
+    margin: 0;
+}

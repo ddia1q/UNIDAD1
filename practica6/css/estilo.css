@@ -1,0 +1,36 @@
+.CALICO img{
+    border-radius: 10%;
+    width: 10;
+    height: 10%;
+    margin: 500px;
+    margin-top: 40px;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.842);
+}
+
+.frame {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 54, 54);
+    border-radius: 10px;
+    border-color: #ffffff;
+    border-style:dotted;
+    text-align: center;
+    opacity: 0.7;
+    margin: 340px;
+    margin-top: -480px;
+    font-size: 15px;
+    padding-right: 25px;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.842);
+}
+
+#background {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100; 
+    background-size: cover;
+    overflow: hidden;
+}
