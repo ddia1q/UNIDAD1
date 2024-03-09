@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+<meta charset="UTF-8">
+<title> :) </title>
+<link rel="icon" href="icon.PNG" type="image/x-icon">
+
+</HEAD>
+
+<body>
+<H1> ENCABEZADO NIVEL 1 </H1>
+<H2> ENCABEZADO NIVEL 2 </H2>
+<img src="sun.png" 
+alt="imagen no encontrada, ni mod0 :("
+title="SVT be the sun 2022<3"
+style="width: 50%; height:100%"/>
+<br/>
+<label> Nombre de usuario </label>
+<input type="text" title="campo para el nombre del usuario :)"/>
+<br/>
+<label> Correo electronico </label>
+<input type="text" title="campo para el correo electronico :)"/>
+<br/>
+<label> Dirección (calle, numero, colonia, municipio, alcaldia, ciudad, país) </label> 
+<input type="text" title="campo para tu dirección :)"/>
+
+
+</body>
+
+</HMTL> 
+

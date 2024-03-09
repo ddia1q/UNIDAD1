@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<tittle> FORMM:) </tittle>
+
+</HEAD>
+
+<body>
+<H1> ENCABEZADO NIVEL 1 </H1>
+<H2> ENCABEZADO NIVEL 2 </H2>
+<img src="

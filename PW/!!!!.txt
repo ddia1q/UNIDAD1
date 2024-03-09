@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+<meta charset="UTF-8">
+<title> <3 </title>
+<link rel="icon" href="coquette.PNG" type="image/x-icon">
+
+</HEAD>
+
+<body>
+<H1> Practica 3 </H1>
+<H1 style="text-align: center; color: white; background: black"> t amo junior H </H1>
+<p> y lloro no pq yo si lloro:/ </p>
+
+<H2> STV WORLD TOUR </H2>
+<H2 style="text-align: left; color: black; background: pink"> seventeen </H2>
+<p> the best tour </p>
+
+
+<img src="florecita.png" 
+alt="imagen no encontrada, ni mod0 :("
+title="Florecitas bonitas<3"
+style="width: 100%; height:50%"/>
+<br/>
+
+<H1> FLOWERS: Hanna Montana :( </H1>
+<H2 style="text-align: center; color: blue"> 
+<pre> 
+We were good, we were gold
+Kinda dream that can't be sold
+We were right 'til we weren't
+Built a home and watched it burn
+ </pre>
+</H2>
+
+<H1> FLOWERS: Miley Cyrus JAJAJA :) </H1>
+<H2 style="text-align: center; color: green"> 
+<pre> 
+Can love me better
+I can love me better, baby
+Can love me better
+I can love me better, baby
+ </pre>
+</H2>
+
+
+</body>
+
+</html>
+
+
+
+

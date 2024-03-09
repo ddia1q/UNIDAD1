@@ -1,0 +1,62 @@
+.container1 {
+    width: 400px;
+    height: 150px;
+    background-color: pink;
+    position: relative;
+    margin: 500px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.container2 {
+    width: 400px;
+    height: 150px;
+    background-color: lightblue;
+    position: relative;
+    margin: 20px;
+    margin-top: -450px;
+    text-align: center;
+}
+
+.container3 {
+    width: 400px;
+    height: 150px;
+    background-color: lightcoral;
+    position: relative;
+    margin: 900px;
+    margin-top: -170px;
+    text-align: center;
+
+}
+
+p{
+    padding: 65px;
+}
+
+.container4 {
+    border-left: thick solid #000;
+    height: 5%;
+    left: 50%;
+    position: absolute;
+    margin: -1px;
+    margin-top: -1100px;
+    margin-right: -90px;
+    margin-left: 25px;
+
+}
+hr{
+    height: 10px;
+    width: 50%;
+    background-color: black;
+    margin-top: -1070px;
+}
+
+#VideoFondo {
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    align-items: center;
+}

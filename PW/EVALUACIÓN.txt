@@ -1,0 +1,4 @@
+EVALUACIÓN:
+-Manual de practicas detallado
+-añadir menu de hamburgesa, responsiva al 100%
+-todo debe de estar en GIT 
